@@ -1,0 +1,1 @@
+print("Setup successful! I'm ready to start learning Python")
