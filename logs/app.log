@@ -1,0 +1,187 @@
+2025-11-14 13:48:14 | DEBUG    | 06b_logging_advanced.py:17 | This is debug message
+2025-11-14 13:48:14 | INFO     | 06b_logging_advanced.py:18 | application started
+2025-11-14 13:48:14 | WARNING  | 06b_logging_advanced.py:19 | this will be saved to logs/app.log
+2025-11-14 13:48:14 | ERROR    | 06b_logging_advanced.py:20 | error messages are locked
+2025-11-14 13:48:14 | CRITICAL | 06b_logging_advanced.py:21 | critical issues are tracked
+2025-11-14 14:47:14 | DEBUG    | 06b_logging_advanced.py:17 | This is debug message
+2025-11-14 14:47:14 | INFO     | 06b_logging_advanced.py:18 | application started
+2025-11-14 14:47:14 | WARNING  | 06b_logging_advanced.py:19 | this will be saved to logs/app.log
+2025-11-14 14:47:14 | ERROR    | 06b_logging_advanced.py:20 | error messages are locked
+2025-11-14 14:47:14 | CRITICAL | 06b_logging_advanced.py:21 | critical issues are tracked
+2025-11-14 14:47:14 | INFO     | 06b_logging_advanced.py:26 | user authentication successsfull
+2025-11-14 14:47:14 | WARNING  | 06b_logging_advanced.py:27 | database connection slow
+2025-11-14 14:47:14 | ERROR    | 06b_logging_advanced.py:33 | An error occured
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\06b_logging_advanced.py", line 31, in buggy_function
+    result=10/0
+           ~~^~
+ZeroDivisionError: division by zero
+2025-11-14 14:48:17 | DEBUG    | 06b_logging_advanced.py:17 | This is debug message
+2025-11-14 14:48:17 | INFO     | 06b_logging_advanced.py:18 | application started
+2025-11-14 14:48:17 | WARNING  | 06b_logging_advanced.py:19 | this will be saved to logs/app.log
+2025-11-14 14:48:17 | ERROR    | 06b_logging_advanced.py:20 | error messages are locked
+2025-11-14 14:48:17 | CRITICAL | 06b_logging_advanced.py:21 | critical issues are tracked
+2025-11-14 14:48:17 | INFO     | 06b_logging_advanced.py:26 | user authentication successsfull
+2025-11-14 14:48:17 | WARNING  | 06b_logging_advanced.py:27 | database connection slow
+2025-11-14 14:48:17 | ERROR    | 06b_logging_advanced.py:33 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\06b_logging_advanced.py", line 31, in buggy_function
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2025-11-14 14:57:12 | DEBUG    | 06b_logging_advanced.py:17 | This is debug message
+2025-11-14 14:57:12 | INFO     | 06b_logging_advanced.py:18 | application started
+2025-11-14 14:57:12 | WARNING  | 06b_logging_advanced.py:19 | this will be saved to logs/app.log
+2025-11-14 14:57:12 | ERROR    | 06b_logging_advanced.py:20 | error messages are locked
+2025-11-14 14:57:12 | CRITICAL | 06b_logging_advanced.py:21 | critical issues are tracked
+2025-11-14 14:57:12 | INFO     | 06b_logging_advanced.py:26 | user authentication successsfull
+2025-11-14 14:57:12 | WARNING  | 06b_logging_advanced.py:27 | database connection slow
+2025-11-14 14:57:12 | ERROR    | 06b_logging_advanced.py:33 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\06b_logging_advanced.py", line 31, in buggy_function
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
+2025-11-14 22:05:24 | DEBUG    | Employee_Analytics_System.py:85 | This is a debug message
+2025-11-14 22:05:24 | INFO     | Employee_Analytics_System.py:86 | Application started
+2025-11-14 22:05:24 | WARNING  | Employee_Analytics_System.py:87 | This will be saved to logs/app.log
+2025-11-14 22:05:24 | ERROR    | Employee_Analytics_System.py:88 | Error messages are logged
+2025-11-14 22:05:24 | CRITICAL | Employee_Analytics_System.py:89 | Critical issues tracked
+2025-11-14 22:05:24 | INFO     | Employee_Analytics_System.py:94 | User authentication successful
+2025-11-14 22:05:24 | WARNING  | Employee_Analytics_System.py:95 | Database connection slow
+2025-11-14 22:05:42 | DEBUG    | Employee_Analytics_System.py:85 | This is a debug message
+2025-11-14 22:05:42 | INFO     | Employee_Analytics_System.py:86 | Application started
+2025-11-14 22:05:42 | WARNING  | Employee_Analytics_System.py:87 | This will be saved to logs/app.log
+2025-11-14 22:05:42 | ERROR    | Employee_Analytics_System.py:88 | Error messages are logged
+2025-11-14 22:05:42 | CRITICAL | Employee_Analytics_System.py:89 | Critical issues tracked
+2025-11-14 22:05:42 | INFO     | Employee_Analytics_System.py:94 | User authentication successful
+2025-11-14 22:05:42 | WARNING  | Employee_Analytics_System.py:95 | Database connection slow
+2025-11-14 22:07:47 | DEBUG    | Employee_Analytics_System.py:85 | This is a debug message
+2025-11-14 22:07:47 | INFO     | Employee_Analytics_System.py:86 | Application started
+2025-11-14 22:07:47 | WARNING  | Employee_Analytics_System.py:87 | This will be saved to logs/app.log
+2025-11-14 22:07:47 | ERROR    | Employee_Analytics_System.py:88 | Error messages are logged
+2025-11-14 22:07:47 | CRITICAL | Employee_Analytics_System.py:89 | Critical issues tracked
+2025-11-14 22:07:47 | INFO     | Employee_Analytics_System.py:94 | User authentication successful
+2025-11-14 22:07:47 | WARNING  | Employee_Analytics_System.py:95 | Database connection slow
+2025-11-14 22:07:59 | DEBUG    | Employee_Analytics_System.py:85 | This is a debug message
+2025-11-14 22:07:59 | INFO     | Employee_Analytics_System.py:86 | Application started
+2025-11-14 22:07:59 | WARNING  | Employee_Analytics_System.py:87 | This will be saved to logs/app.log
+2025-11-14 22:07:59 | ERROR    | Employee_Analytics_System.py:88 | Error messages are logged
+2025-11-14 22:07:59 | CRITICAL | Employee_Analytics_System.py:89 | Critical issues tracked
+2025-11-14 22:07:59 | INFO     | Employee_Analytics_System.py:94 | User authentication successful
+2025-11-14 22:07:59 | WARNING  | Employee_Analytics_System.py:95 | Database connection slow
+2025-11-14 23:32:37 | INFO     | Employee_Analytics_System.py:94 | User authentication successful
+2025-11-14 23:32:37 | WARNING  | Employee_Analytics_System.py:95 | Database connection slow
+2025-11-14 23:41:51 | ERROR    | Employee_Analytics_System.py:117 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 114, in get_department_breakdown
+    print(f"  - {emp['dept']}: 1")
+                 ~~~^^^^^^^^
+KeyError: 'dept'
+2025-11-14 23:42:02 | ERROR    | Employee_Analytics_System.py:117 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 114, in get_department_breakdown
+    print(f"  - {emp['dept']}")
+                 ~~~^^^^^^^^
+KeyError: 'dept'
+2025-11-15 00:03:13 | ERROR    | Employee_Analytics_System.py:130 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 115, in get_department_breakdown
+    dept_to_names = defaultdict(list)
+                    ^^^^^^^^^^^
+NameError: name 'defaultdict' is not defined
+2025-11-15 00:10:02 | ERROR    | Employee_Analytics_System.py:146 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 137, in calculate_average_salary
+    print(f"Average: {sum(numbers) / len(employees)}")
+                          ^^^^^^^
+NameError: name 'numbers' is not defined. Did you forget to import 'numbers'?
+2025-11-15 00:22:12 | ERROR    | Employee_Analytics_System.py:156 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 150, in find_top_performers
+    high_ids = [id for id in eng_employees if performance_score > 8.0]
+                                              ^^^^^^^^^^^^^^^^^
+NameError: name 'performance_score' is not defined
+2025-11-15 00:22:43 | ERROR    | Employee_Analytics_System.py:156 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 150, in find_top_performers
+    high_ids = [id for id in eng_employees if emp["performance_score"]  > 8.0]
+                                              ^^^
+NameError: name 'emp' is not defined
+2025-11-15 00:33:58 | ERROR    | Employee_Analytics_System.py:160 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 155, in find_top_performers
+    name_to_salary = {high_ids["name"]: high_ids["performance_score"] for emp in eng_employees} #output is dictionary
+                      ~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-15 00:34:28 | ERROR    | Employee_Analytics_System.py:160 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 155, in find_top_performers
+    name_to_salary = {high_ids['name']: high_ids['performance_score'] for emp in eng_employees} #output is dictionary
+                      ~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-15 00:35:07 | ERROR    | Employee_Analytics_System.py:160 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 155, in find_top_performers
+    name_to_salary = {eng_employees['name']: eng_employees['performance_score'] for emp in eng_employees if id["performance_score"]  > 8.0} #output is dictionary
+                                                                                                            ~~^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2025-11-15 00:35:41 | ERROR    | Employee_Analytics_System.py:160 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 155, in find_top_performers
+    name_to_salary = {eng_employees['name']: eng_employees['performance_score'] for emp in eng_employees if eng_employees["performance_score"]  > 8.0} #output is dictionary
+                                                                                                            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-15 00:36:50 | ERROR    | Employee_Analytics_System.py:160 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 155, in find_top_performers
+    name_to_salary = {high_ids['name']: high_ids['performance_score']}
+                      ~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2025-11-15 00:56:18 | ERROR    | Employee_Analytics_System.py:159 | An error occurred
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\Employee_Analytics_System.py", line 154, in find_top_performers
+    print(f"{[emp for emp in employees if emp["performance_score"] >= minimum_score]}")
+                                                                      ^^^^^^^^^^^^^
+NameError: name 'minimum_score' is not defined
+2025-11-15 15:59:56 | INFO | logging_example.py | Excellent performance! Bonus: $10500.0
+2025-11-15 15:59:56 | INFO | logging_example.py | Total bonus for Alice: $10500.0
+2025-11-15 15:59:56 | INFO | logging_example.py | Standard bonus: $3000.0
+2025-11-15 15:59:56 | INFO | logging_example.py | Total bonus for Bob: $3000.0
+2025-11-15 16:02:17 | INFO | logging_example.py | Excellent performance! Bonus: $10500.0
+2025-11-15 16:02:19 | INFO | logging_example.py | Total bonus for Alice: $10500.0
+2025-11-16 10:59:56 | DEBUG   | 06b_logging_advanced.py:19 | thi is debug
+2025-11-16 10:59:56 | WARNING | 06b_logging_advanced.py:20 | this is warning
+2025-11-16 10:59:56 | INFO    | 06b_logging_advanced.py:21 | this is info
+2025-11-16 10:59:56 | ERROR   | 06b_logging_advanced.py:22 | this is error
+2025-11-16 10:59:56 | ERROR   | 06b_logging_advanced.py:23 | ths is error
+2025-11-16 10:59:56 | ERROR   | 06b_logging_advanced.py:32 | An error occured
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\06b_logging_advanced.py", line 30, in buggy_function
+    result=10/0
+           ~~^~
+ZeroDivisionError: division by zero
+2025-11-22  18:20:16 | DEBUG    | 06b_logging_advanced.py:19 | This is debug message
+2025-11-22  18:20:16 | INFO     | 06b_logging_advanced.py:20 | this is info message
+2025-11-22  18:20:16 | WARNING  | 06b_logging_advanced.py:21 | this is warning message
+2025-11-22  18:20:16 | CRITICAL | 06b_logging_advanced.py:22 | this is critical message
+2025-11-22  18:20:16 | ERROR    | 06b_logging_advanced.py:23 | this is error message
+2025-11-22  18:20:16 | INFO     | 06b_logging_advanced.py:28 | user logging successfull
+2025-11-22  18:20:16 | WARNING  | 06b_logging_advanced.py:29 | database connection slow
+2025-11-22  18:20:16 | ERROR    | 06b_logging_advanced.py:35 | An error occured
+Traceback (most recent call last):
+  File "C:\Users\pravi\Documents\Suji_Files\python_mentorship\week1\python_mentorship_test\06b_logging_advanced.py", line 33, in buggy_function
+    result=10/0
+           ~~^~
+ZeroDivisionError: division by zero
+2025-11-23 11:03:19 | DEBUG    | 06_exercise.py:22 | This is a debug message
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:23 | Application started
+2025-11-23 11:03:19 | WARNING  | 06_exercise.py:24 | This will be saved to logs/app.log
+2025-11-23 11:03:19 | ERROR    | 06_exercise.py:25 | Error messages are logged
+2025-11-23 11:03:19 | CRITICAL | 06_exercise.py:26 | Critical issues tracked
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:29 | Calculating bonus for {name}
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:32 | Excellent performance! Bonus: $10500.0
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:42 | Total bonus for Alice: $10500.0
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:29 | Calculating bonus for {name}
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:39 | Standard bonus: $3000.0
+2025-11-23 11:03:19 | INFO     | 06_exercise.py:42 | Total bonus for Bob: $3000.0

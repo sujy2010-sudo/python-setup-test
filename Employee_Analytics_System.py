@@ -82,6 +82,7 @@ employees = [
 
 
 logger = logging.getLogger(__name__)
+
 #logger.debug("This is a debug message")
 #logger.info("Application started")
 #logger.warning("This will be saved to logs/app.log")
